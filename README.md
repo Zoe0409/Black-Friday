@@ -1,4 +1,7 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FZoe0409%2FBlack-Friday)
+
 # Black-Friday
+
 **Problem Statement:**
 
 The purpose of this report is to discuss the analytical work that our project group has completed during the Spring 2019 semester for our final project and presentation.  Our group chose to work on the Black Friday dataset, which was originally released as part of a machine learning contest on Kaggle.com.  The goal of the Kaggle competition was to predict the purchase amounts for transactions in the testing dataset, but our goals for this project expanded beyond those instructions.  We looked at the dataset through the lens of a company trying to accomplish the following goal: use the analytical techniques and frameworks we learned this semester to develop insights about the company’s customers and products, which could then be leveraged to increase future sales.
